@@ -14,7 +14,7 @@
   <li>Flutter</li>
   <li>Bootstrap</li>
 </ul>
-<h2>Langues</h2>
+<h2>Languages</h2>
 <ul>
   <li>Java</li>
   <li>C#</li>
