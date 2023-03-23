@@ -1,4 +1,4 @@
-  <h1>👋 Hi, I’m Arjin Kavalci</h1>
+  <h1>👋 Hi, I’m Arjin Kavalcı</h1>
   <ul>
   <li>🏠 I'm currently living in Antalya, Turkey.</li>
   <li>👀 I’m interested in  full stack software development.</li>
