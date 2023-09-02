@@ -2,11 +2,11 @@
   <ul>
   <li>🏠 I'm currently living in Antalya, Turkey.</li>
   <li>👀 I’m interested in  full stack software development.</li>
-  <li>🌱 I’m currently learning Flutter.</li>
+  <li>🌱 I’m currently learning Kotlin</li>
   <li>💞️ I’m looking to collaborate on new projects.</li>
   <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
       How to reach me
-     <strong><a href="mailto:ahmetsezerakdeniz19@gmail.com">arjin.33@outlook.com</a></strong></li>
+     <strong><a href="mailto:arjin.33@outlook.com">arjin.33@outlook.com</a></strong></li>
 </ul>
 <h1>💼 Technologies & Tools</h1>
 <h2>Frameworks</h2>
