@@ -17,12 +17,11 @@
 <h2>Languages</h2>
 <ul>
   <li>Java</li>
+  <li>Kotlin</li>
   <li>C#</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li>HTML/CSS</li>
 </ul>
-<h2>Database</h2>
+<h2>Databases</h2>
 <ul>
   <li>MySQL</li>
 </ul>
