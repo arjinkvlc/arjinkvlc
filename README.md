@@ -1,7 +1,7 @@
   <h1>👋 Hi, I’m Arjin Kavalcı</h1>
   <ul>
   <li>🏠 I'm currently living in Antalya, Turkey.</li>
-  <li>👀 I’m interested in  full stack software development.</li>
+  <li>👀 I’m interested in mobile development.</li>
   <li>🌱 I’m currently learning Kotlin</li>
   <li>💞️ I’m looking to collaborate on new projects.</li>
   <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
